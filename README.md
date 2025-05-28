@@ -71,9 +71,9 @@ Esta análise avalia o desempenho de **4 lojas** da rede Alura Store para identi
 ## 🚀 Como Reproduzir a Análise
 
    **Passos**:
-   - Clone o repositório.
-   - Execute o Jupyter Notebook `analise_lojas.ipynb`.
-   - Siga as células sequencialmente para gerar gráficos e tabelas.
+- Clone o repositório.
+- Execute o Jupyter Notebook `analise_lojas.ipynb`.
+- Siga as células sequencialmente para gerar gráficos e tabelas.
 
 ## 📌Conclusões
 A **Loja 1** é a recomendada para venda devido ao seu **alto faturamento**, mas apresenta riscos como **baixa avaliação** e **custos de frete elevados**. Detalhes completos estão no projeto.
